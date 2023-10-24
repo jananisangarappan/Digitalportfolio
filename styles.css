@@ -1,0 +1,35 @@
+body, h1, h2, h3, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Basic styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f1e2e4;
+    background-image: url(blue-psychedelic-paper-shapes.jpg);
+}
+
+header {
+    background-color: #404a98;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+.about, .projects, .contact {
+    margin: 40px;
+    padding: 40px;
+    background-color: #eb5269;
+    border-radius: 5px;
+}
+
+.project {
+    margin-bottom: 20px;
+}
+
+/* Add more CSS styles as needed to customize your portfolio */
